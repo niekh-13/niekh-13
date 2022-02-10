@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @niekh-13
+- 👀 I’m interested in big data analysis with machine learning
+- 🌱 I’m currently learning bioinformatics 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me nhuijsmans1998@gmail.com
